@@ -2,12 +2,10 @@
 
 ## My birth name is Samantha Wolfskill. I'm a TypeScript/React developer with a JavaScript background. 
 
-I have been self-taught since 2021 and completed a JavaScript full-stack certification in February of 2022. Before programming, I did Graphic Design and Fine Art. I continue to create in my down time, and love to build miniatures, paint, and draw digitally via Procreate.
+Self-taught since 2021 in JavaScript and Python. 
+Strength in TypeScript and React.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfskillobyte&show_icons=true&locale=en&theme=dark" alt="wolfgarb" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfskillobyte&show_icons=true&locale=en&layout=compact&theme=dark" alt="wolfskillobyte" />
-
+![Top Languages](https://ghstats.dev/api/langs?username=wolfskillobyte)
 
 ### Connect
 ####
@@ -20,9 +18,6 @@ I have been self-taught since 2021 and completed a JavaScript full-stack certifi
  
 ![](https://dcbadge.vercel.app/api/shield/746823093468790785?compact=true)
 
-   
-### Credit
-Thank you to [Mandy](https://ummmmandy.tumblr.com/) for her avatar-creator. 
 
 
 
